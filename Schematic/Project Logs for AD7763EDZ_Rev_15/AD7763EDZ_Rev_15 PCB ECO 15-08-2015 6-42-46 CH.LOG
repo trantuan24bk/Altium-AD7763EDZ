@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=J3_3 Pin=J3-3
+Removed Pin From Net: NetName=J3_3 Pin=J3-9
+Removed Pin From Net: NetName=J3_3 Pin=J3-33
+Removed Pin From Net: NetName=J3_3 Pin=J3-34
+Added Room: Name=Analog Section
+Added Room: Name=Interface Section
+Added Room: Name=Power Supply Section

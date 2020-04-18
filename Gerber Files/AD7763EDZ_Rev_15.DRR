@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AD7763EDZ_Rev_15.PcbDoc   16/08/2015  6:46:47 CH
+---------------------------------------------------------------------------
+
+Layer Pair : TOP Layer to BOTTOM Layer
+ASCII RoundHoles File : AD7763EDZ_Rev_15.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          144              639.98 mm (25.20 Inch)
+T2        0.6mm (23.622mil)        Round          44               505.02 mm (19.88 Inch)
+T3        0.8mm (31.496mil)        Round          4                22.86 mm (0.90 Inch)
+T4        1mm (39.37mil)           Round          74               537.98 mm (21.18 Inch)
+T5        1.2mm (47.244mil)        Round          1                0.00 mm (0.00 Inch)
+T6        1.3mm (51.181mil)        Round          31               361.42 mm (14.23 Inch)
+T7        1.6mm (62.992mil)        Round          4                20.98 mm (0.83 Inch)
+T8        5.08mm (200mil)          Round          4                326.54 mm (12.86 Inch)
+---------------------------------------------------------------------------
+Totals                                            306              2414.79 mm (95.07 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

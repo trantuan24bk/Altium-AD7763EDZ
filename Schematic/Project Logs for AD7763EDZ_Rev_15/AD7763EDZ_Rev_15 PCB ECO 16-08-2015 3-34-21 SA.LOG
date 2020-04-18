@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C13 Old Footprint=C_0805 New Footprint=Capacitor Locations
+Change Component Footprint: Designator=C42 Old Footprint=C_TANTA_TAJ-C New Footprint=C_PTH_TANTA_TAJ-C
+Change Component Comment : Designator=C13 Old Comment= New Comment=Not Populated
+Added Room: Name=Analog Section
+Added Room: Name=Interface Section
+Added Room: Name=Power Supply Section

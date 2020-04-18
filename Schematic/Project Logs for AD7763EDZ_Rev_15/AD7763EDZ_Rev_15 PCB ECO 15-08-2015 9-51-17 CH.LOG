@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C7 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=C48 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=C50 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=C52 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=C53 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=C54 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=C57 Old Footprint=C_0402 New Footprint=C_0603
+Added Room: Name=Analog Section
+Added Room: Name=Interface Section
+Added Room: Name=Power Supply Section

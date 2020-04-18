@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AD7763EDZ_Rev_15.PrjPcb]
+   Generated File[AD7763EDZ_Rev_15.TXT]
+   Generated File[AD7763EDZ_Rev_15.LDP]
+   Generated File[AD7763EDZ_Rev_15.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:46:47 CH On 16/08/2015

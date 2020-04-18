@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J3 Old Footprint=FM_Header_17x2 New Footprint=FM_Header_17x2_Bottom
+Change Net Name : Old Net Name=NetU12-_6 New Net Name=NetU12_6
+Change Net Name : Old Net Name=NetU12-_8 New Net Name=NetU12_8
+Added Room: Name=Analog Section
+Added Room: Name=Interface Section
+Added Room: Name=Power Supply Section
